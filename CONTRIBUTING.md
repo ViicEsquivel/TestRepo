@@ -6,3 +6,4 @@ seis
 siete
 ocho
 nueve
+diez
