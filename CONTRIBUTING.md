@@ -3,4 +3,4 @@ dostres
 cuatro
 cinco
 seis
-siete
+siete 7
